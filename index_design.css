@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(0, 0, 33);
+    color: white;
+}
+.right{
+    height: 60px;
+    width: 60px;
+}
+.top{
+    display: flex;
+    margin: 5px 5px;
+}
+.hp{
+    height: 50px;
+    width: 50px;
+}
+.r{
+    padding: 0px 0px 5px 17px;
+    font-size: 40px;
+}
+.dash{
+    margin: 10px 10px 10px 10px;
+}
+.ta1{
+    display: flex;
+    justify-content: center;
+}
+.ta2{
+    margin: 0px 25px 0px -15px;
+    list-style: none;
+    background-color: rgb(39, 5, 39);
+    padding: 15px 50px 15px 50px;
+    border-radius: 20px;
+    font-size: large;
+    border: 1px solid white;
+}
+a{
+    color:  rgb(229, 190, 229);
+    text-decoration: none;
+}
+.o{
+    color: rgb(252, 182, 52);
+}
+.w{
+    color: white;
+}
+.g{
+    color: rgb(30, 216, 30);
+}
